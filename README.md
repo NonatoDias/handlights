@@ -1,6 +1,8 @@
 # Handlights
 Como controlar a iluminação sem o contato direto com os objetos? Usando Gestos.
 
+![GitHub Logo](/img/Handlights%20COR.gif)
+
 ## Projeto de Sistemas Embarcados 2
 
 ### Objetivo
